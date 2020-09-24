@@ -1,1 +1,1 @@
-# CNKI2ENDNOTE
+# Solution for importing CNKI citations to Endnote
